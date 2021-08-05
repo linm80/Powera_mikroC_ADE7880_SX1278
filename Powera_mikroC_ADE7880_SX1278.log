@@ -1,0 +1,11 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F103C8 -BIN -LHF -DL -SSA -O11111114 -fo16 -N"C:\Users\Omar\Documents\Powera\ADE7880_RenA-master\Powera_mikroC_ADE7880_SX1278\Powera_mikroC_ADE7880_SX1278.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" -SP"C:\Users\Omar\Documents\Powera\ADE7880_RenA-master\Powera_mikroC_ADE7880_SX1278\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M3\" "Powera_mikroC_ADE7880_SX1278.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_101_102_103.emcl" "__Lib_GPIO_32F10x_Defs.emcl" "__Lib_GPIO_32F10x.emcl" "__Lib_UART_123.emcl"	 
+diagnostics: 0	122	Compilation Started	Powera_mikroC_ADE7880_SX1278.c
+diagnostics: 3	123	Compiled Successfully	Powera_mikroC_ADE7880_SX1278.c
+diagnostics: 0	127	All files Compiled in 62 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 20   Dynamic RAM (bytes): 20457	Static RAM (bytes): 20   Dynamic RAM (bytes): 20457
+hint: 0	1144	Used ROM (bytes): 2678 (4%)  Free ROM (bytes): 62858 (96%)	Used ROM (bytes): 2678 (4%)  Free ROM (bytes): 62858 (96%)
+diagnostics: 0	125	Project Linked Successfully	Powera_mikroC_ADE7880_SX1278.mcpar
+diagnostics: 0	128	Linked in 156 ms	 
+diagnostics: 0	129	Project 'Powera_mikroC_ADE7880_SX1278.mcpar' completed: 297 ms	 
+diagnostics: 0	103	Finished successfully: 05 août 2021, 15:31:37	Powera_mikroC_ADE7880_SX1278.mcpar

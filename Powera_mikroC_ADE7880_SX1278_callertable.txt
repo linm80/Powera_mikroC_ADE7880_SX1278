@@ -1,0 +1,10 @@
+main
+	__FillZeros
+	UART1_Init_Advanced
+		UARTx_Init_Advanced
+			RCC_GetClocksFrequency
+				Get_Fosc_kHz
+			GPIO_Alternate_Function_Enable
+				GPIO_Configure_Pin
+					GPIO_Config
+						GPIO_Clk_Enable
